@@ -76,27 +76,11 @@ Each decision is self-contained and typically includes:
 
 ---
 
-## Engineering Decision Framework
+## Methodology
 
-Every laboratory is built around a single engineering question. The outcome is not a definitive answer, but evidence that informs future decisions.
+Every Engineering Decision follows a common methodology based on reproducible implementation, controlled experimentation, and evidence-based reasoning.
 
-```mermaid
-flowchart TD
-    A["Engineering Question"]
-    B["Hypothesis"]
-    C["Implementation"]
-    D["Experiment"]
-    E["Observations"]
-    F["Trade-offs"]
-    G["Engineering Decision"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-```
+For more details, see [METHODOLOGY.md](./METHODOLOGY.md).
 
 ---
 
