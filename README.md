@@ -12,6 +12,18 @@ The goal is simple:
 
 ---
 
+## What Makes This Project Different?
+
+Engineering Decisions is not a collection of tutorials, service overviews, or feature walkthroughs.
+
+Each laboratory begins with a real engineering question, validates a hypothesis through reproducible experiments, and documents the reasoning behind the final decision.
+
+The goal is not to prescribe universal answers, but to provide evidence that helps engineers make better decisions in their own environments.
+
+> Engineering is not about choosing the most advanced technology. It's about making the most appropriate decision with the evidence available.
+
+---
+
 ## Philosophy
 
 Modern cloud platforms abstract an increasing amount of infrastructure.
