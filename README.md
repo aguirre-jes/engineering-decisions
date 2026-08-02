@@ -48,9 +48,8 @@ The objective is not to find universal answers, but to provide enough evidence f
 engineering-decisions/
 
 ├── decisions/
-│   ├── 001-abstracting-nodes-not-accountability/
-│   ├── 002-what-auto-mode-doesnt-abstract/
-│   ├── 003-ecs-vs-eks-auto-mode/
+│   ├── 001-what-auto-mode-doesnt-abstract/
+│   ├── 002-ecs-vs-eks-auto-mode/
 │   └── ...
 │
 ├── diagrams/
